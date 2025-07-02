@@ -20,6 +20,7 @@
   "name":"teste source control",
   "resources":[
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"objeto_teste","path":"objects/objeto_teste/objeto_teste.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
